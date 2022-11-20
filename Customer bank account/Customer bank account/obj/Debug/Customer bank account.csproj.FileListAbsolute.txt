@@ -1,0 +1,34 @@
+D:\C# II\Customer bank account\Customer bank account\Customer bank account\bin\Debug\Customer bank account.exe.config
+D:\C# II\Customer bank account\Customer bank account\Customer bank account\bin\Debug\Customer bank account.exe
+D:\C# II\Customer bank account\Customer bank account\Customer bank account\bin\Debug\Customer bank account.pdb
+D:\C# II\Customer bank account\Customer bank account\Customer bank account\obj\Debug\Customer bank account.csprojAssemblyReference.cache
+D:\C# II\Customer bank account\Customer bank account\Customer bank account\obj\Debug\Customer_bank_account.Form1.resources
+D:\C# II\Customer bank account\Customer bank account\Customer bank account\obj\Debug\Customer_bank_account.Properties.Resources.resources
+D:\C# II\Customer bank account\Customer bank account\Customer bank account\obj\Debug\Customer bank account.csproj.GenerateResource.cache
+D:\C# II\Customer bank account\Customer bank account\Customer bank account\obj\Debug\Customer bank account.csproj.CoreCompileInputs.cache
+D:\C# II\Customer bank account\Customer bank account\Customer bank account\obj\Debug\Customer bank account.exe
+D:\C# II\Customer bank account\Customer bank account\Customer bank account\obj\Debug\Customer bank account.pdb
+D:\C# II\Customer bank account\Customer bank account\Customer bank account\bin\Debug\AWSSDK.Core.dll
+D:\C# II\Customer bank account\Customer bank account\Customer bank account\bin\Debug\AWSSDK.S3.dll
+D:\C# II\Customer bank account\Customer bank account\Customer bank account\bin\Debug\AWSSDK.Core.pdb
+D:\C# II\Customer bank account\Customer bank account\Customer bank account\bin\Debug\AWSSDK.Core.xml
+D:\C# II\Customer bank account\Customer bank account\Customer bank account\bin\Debug\AWSSDK.S3.pdb
+D:\C# II\Customer bank account\Customer bank account\Customer bank account\bin\Debug\AWSSDK.S3.xml
+D:\C# II\Customer bank account\Customer bank account\Customer bank account\obj\Debug\Customer bank account.csproj.CopyComplete
+D:\C#II\Customer bank account\Customer bank account\Customer bank account\bin\Debug\Customer bank account.exe.config
+D:\C#II\Customer bank account\Customer bank account\Customer bank account\bin\Debug\Customer bank account.exe
+D:\C#II\Customer bank account\Customer bank account\Customer bank account\bin\Debug\Customer bank account.pdb
+D:\C#II\Customer bank account\Customer bank account\Customer bank account\bin\Debug\AWSSDK.Core.dll
+D:\C#II\Customer bank account\Customer bank account\Customer bank account\bin\Debug\AWSSDK.S3.dll
+D:\C#II\Customer bank account\Customer bank account\Customer bank account\bin\Debug\AWSSDK.Core.pdb
+D:\C#II\Customer bank account\Customer bank account\Customer bank account\bin\Debug\AWSSDK.Core.xml
+D:\C#II\Customer bank account\Customer bank account\Customer bank account\bin\Debug\AWSSDK.S3.pdb
+D:\C#II\Customer bank account\Customer bank account\Customer bank account\bin\Debug\AWSSDK.S3.xml
+D:\C#II\Customer bank account\Customer bank account\Customer bank account\obj\Debug\Customer bank account.csproj.AssemblyReference.cache
+D:\C#II\Customer bank account\Customer bank account\Customer bank account\obj\Debug\Customer_bank_account.Form1.resources
+D:\C#II\Customer bank account\Customer bank account\Customer bank account\obj\Debug\Customer_bank_account.Properties.Resources.resources
+D:\C#II\Customer bank account\Customer bank account\Customer bank account\obj\Debug\Customer bank account.csproj.GenerateResource.cache
+D:\C#II\Customer bank account\Customer bank account\Customer bank account\obj\Debug\Customer bank account.csproj.CoreCompileInputs.cache
+D:\C#II\Customer bank account\Customer bank account\Customer bank account\obj\Debug\Customer bank account.csproj.CopyComplete
+D:\C#II\Customer bank account\Customer bank account\Customer bank account\obj\Debug\Customer bank account.exe
+D:\C#II\Customer bank account\Customer bank account\Customer bank account\obj\Debug\Customer bank account.pdb
